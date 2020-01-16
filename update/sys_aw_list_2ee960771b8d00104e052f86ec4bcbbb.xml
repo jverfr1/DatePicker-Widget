@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="HR Cases">6ae960771b8d00104e052f86ec4bcbb7</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by</columns>
+        <condition table="sn_hr_core_case">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 22:41:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2ee960771b8d00104e052f86ec4bcbbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test" source="x_92724_test">ee98a0b31b8d00104e052f86ec4bcb28</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">ee98a0b31b8d00104e052f86ec4bcb28</sys_scope>
+        <sys_update_name>sys_aw_list_2ee960771b8d00104e052f86ec4bcbbb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 22:41:36</sys_updated_on>
+        <table>sn_hr_core_case</table>
+        <title>Open</title>
+        <workspace display_value="Test">e5e920771b8d00104e052f86ec4bcb5b</workspace>
+    </sys_aw_list>
+</record_update>

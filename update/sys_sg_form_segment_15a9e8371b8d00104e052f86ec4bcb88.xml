@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Activity Stream">99a9e8371b8d00104e052f86ec4bcb83</embedded_screen>
+        <form display_value="HR Case Form Screen">15a9e8371b8d00104e052f86ec4bcb82</form>
+        <order>20</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 22:40:25</sys_created_on>
+        <sys_id>15a9e8371b8d00104e052f86ec4bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test" source="x_92724_test">ee98a0b31b8d00104e052f86ec4bcb28</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">ee98a0b31b8d00104e052f86ec4bcb28</sys_scope>
+        <sys_update_name>sys_sg_form_segment_15a9e8371b8d00104e052f86ec4bcb88</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 22:40:25</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

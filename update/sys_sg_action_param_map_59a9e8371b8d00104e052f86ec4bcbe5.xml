@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (HR Case)">51a9e8371b8d00104e052f86ec4bcbcf</button>
+        <item_parameter display_value="HR Case business_service">11a9e8371b8d00104e052f86ec4bcbce</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 22:40:25</sys_created_on>
+        <sys_id>59a9e8371b8d00104e052f86ec4bcbe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>11a9e8371b8d00104e052f86ec4bcbce</sys_name>
+        <sys_package display_value="Test" source="x_92724_test">ee98a0b31b8d00104e052f86ec4bcb28</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">ee98a0b31b8d00104e052f86ec4bcb28</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_59a9e8371b8d00104e052f86ec4bcbe5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 22:40:25</sys_updated_on>
+        <ui_parameter display_value="Service">d9a9e8371b8d00104e052f86ec4bcbd4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>HR Cases</name>
+        <source_table>sn_hr_core_case</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 22:41:32</sys_created_on>
+        <sys_id>a5e920771b8d00104e052f86ec4bcb69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Cases</sys_name>
+        <sys_package display_value="Test" source="x_92724_test">ee98a0b31b8d00104e052f86ec4bcb28</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">ee98a0b31b8d00104e052f86ec4bcb28</sys_scope>
+        <sys_update_name>sys_search_source_a5e920771b8d00104e052f86ec4bcb69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 22:41:32</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=a5e920771b8d00104e052f86ec4bcb69"/>
+</record_update>

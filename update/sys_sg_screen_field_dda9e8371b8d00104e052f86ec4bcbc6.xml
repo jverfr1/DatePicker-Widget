@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>location</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>80</order>
+        <record_id_field/>
+        <screen display_value="Details">dda9e8371b8d00104e052f86ec4bcb82</screen>
+        <screen_data_item_table>sn_hr_core_case</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-17 22:40:25</sys_created_on>
+        <sys_id>dda9e8371b8d00104e052f86ec4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="Test" source="x_92724_test">ee98a0b31b8d00104e052f86ec4bcb28</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">ee98a0b31b8d00104e052f86ec4bcb28</sys_scope>
+        <sys_update_name>sys_sg_screen_field_dda9e8371b8d00104e052f86ec4bcbc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-17 22:40:25</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=dda9e8371b8d00104e052f86ec4bcbc6"/>
+</record_update>
